@@ -41,7 +41,7 @@ pandas==2.2.2
 pillow==10.3.0
 protobuf==4.25.3
 pyarrow==16.1.0
-pydantic==2.7.4
+pydantic==1.10.13
 pydantic_core==2.18.4
 pydeck==0.9.1
 Pygments==2.18.0
@@ -70,9 +70,14 @@ tzdata==2024.1
 urllib3==2.2.2
 watchdog==4.0.1
 yarl==1.9.4
-pydantic==1.10.13
 langchain-community
 langserve
 fastapi
 uvicorn
 sse_starlette
+bs4
+jupyter
+ipykernel
+pypdf
+chromadb
+faiss-cpu
