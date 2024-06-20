@@ -81,3 +81,6 @@ ipykernel
 pypdf
 chromadb
 faiss-cpu
+wikipedia
+arxiv
+langchainhub
