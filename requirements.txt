@@ -86,3 +86,5 @@ arxiv
 langchainhub
 groq
 langchain-groq
+sentence_transformers
+langchain_huggingface
